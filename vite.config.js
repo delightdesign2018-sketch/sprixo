@@ -1,7 +1,11 @@
+
 import { resolve } from 'node:path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
+  // GitHub Pages repository name
+  base: '/spirxo/',
+
   build: {
     rollupOptions: {
       input: {
