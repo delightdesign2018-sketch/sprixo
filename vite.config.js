@@ -4,7 +4,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   // GitHub Pages repository name
-  base: '/spirxo/',
+  base: '/sprixo/',
 
   build: {
     rollupOptions: {
