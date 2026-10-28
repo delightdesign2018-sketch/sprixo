@@ -1,0 +1,14 @@
+import { chromium } from 'playwright';
+const browser = await chromium.launch();
+const page = await browser.newPage({ viewport: { width: 1440, height: 900 } });
+await page.goto('http://localhost:5173', { waitUntil: 'networkidle' });
+await page.waitForTimeout(2500);
+await page.locator('#about').scrollIntoViewIfNeeded();
+await page.waitForTimeout(1200);
+await page.locator('.stat-circle').first().hover();
+await page.waitForTimeout(350);
+await page.screenshot({ path: 'qa-hover-about-mid.png' });
+await page.waitForTimeout(600);
+await page.screenshot({ path: 'qa-hover-about-end.png' });
+await browser.close();
+console.log('done');

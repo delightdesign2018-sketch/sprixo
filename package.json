@@ -1,0 +1,20 @@
+{
+  "name": "sprixo",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "screenshots": "node scripts/screenshot.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0",
+    "sass": "^1.105.1",
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0"
+  }
+}

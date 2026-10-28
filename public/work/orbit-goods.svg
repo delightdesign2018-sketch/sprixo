@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dfe4ec"/><stop offset="1" stop-color="#b9c1d0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <path d="M0 700 Q 400 560 800 700 T 1600 700 V1000 H0 Z" fill="#f4f4f2" opacity="0.6"/>
+  <circle cx="800" cy="380" r="140" fill="#16171a" opacity="0.12"/>
+  <text x="800" y="540" text-anchor="middle" font-family="Georgia, serif" font-size="72" fill="#16171a">Orbit Goods</text>
+</svg>

@@ -1,0 +1,1073 @@
+[
+  {
+    "vp": {
+      "name": "desktop-1440",
+      "width": 1440,
+      "height": 900
+    },
+    "horizontalOverflow": false,
+    "scrollW": 1440,
+    "clientW": 1440,
+    "bodyScrollW": 1440,
+    "els": {
+      "footer": {
+        "x": 0,
+        "y": 323,
+        "w": 1440,
+        "h": 578,
+        "r": 1440,
+        "b": 900
+      },
+      "eyebrow": {
+        "x": 130,
+        "y": 423,
+        "w": 1180,
+        "h": 48,
+        "r": 1310,
+        "b": 471
+      },
+      "title": {
+        "x": 130,
+        "y": 484,
+        "w": 1180,
+        "h": 139,
+        "r": 1310,
+        "b": 623
+      },
+      "line1": null,
+      "word2": {
+        "x": 130,
+        "y": 500,
+        "w": 1180,
+        "h": 105,
+        "r": 1310,
+        "b": 605
+      },
+      "mail": {
+        "x": 130,
+        "y": 648,
+        "w": 1180,
+        "h": 50,
+        "r": 1310,
+        "b": 698
+      },
+      "mailText": {
+        "x": 882,
+        "y": 648,
+        "w": 361,
+        "h": 50,
+        "r": 1243,
+        "b": 698
+      },
+      "mailBtn": {
+        "x": 1266,
+        "y": 651,
+        "w": 44,
+        "h": 44,
+        "r": 1310,
+        "b": 695
+      },
+      "bottom": {
+        "x": 65,
+        "y": 770,
+        "w": 1310,
+        "h": 94,
+        "r": 1375,
+        "b": 864
+      },
+      "contact": {
+        "x": 65,
+        "y": 808,
+        "w": 242,
+        "h": 56,
+        "r": 306,
+        "b": 864
+      },
+      "social": {
+        "x": 495,
+        "y": 826,
+        "w": 450,
+        "h": 20,
+        "r": 945,
+        "b": 846
+      },
+      "legal": {
+        "x": 1162,
+        "y": 828,
+        "w": 213,
+        "h": 16,
+        "r": 1375,
+        "b": 844
+      }
+    },
+    "styles": {
+      "footer": {
+        "background-color": "rgb(23, 23, 26)",
+        "color": "rgb(244, 244, 242)",
+        "padding-top": "100.8px",
+        "padding-left": "64.8px"
+      },
+      "title": {
+        "font-family": "\"Playfair Display\", Georgia, serif",
+        "font-size": "100.8px",
+        "line-height": "104.832px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "eyebrow": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "16.56px",
+        "font-weight": "500",
+        "color": "rgb(167, 167, 173)"
+      },
+      "mail": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "43.2px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "social": {
+        "font-size": "12px",
+        "font-weight": "700",
+        "letter-spacing": "1.68px",
+        "text-transform": "uppercase"
+      },
+      "bottom": {
+        "grid-template-columns": "386.844px 450.328px 386.859px",
+        "border-top-color": "rgba(244, 244, 242, 0.14)"
+      }
+    },
+    "overflowInfo": {
+      "titleLines": 1,
+      "titleH": 139,
+      "maskW": 1180,
+      "textW": 848,
+      "fullWidth": 908,
+      "fitsOneLine": true,
+      "socialScrollW": 450,
+      "socialClientW": 450,
+      "contactH": 56,
+      "contactW": 242,
+      "socialH": 20,
+      "eyebrowH": 48,
+      "maskH": 139,
+      "innerH": 105
+    }
+  },
+  {
+    "vp": {
+      "name": "desktop-1768",
+      "width": 1768,
+      "height": 1000
+    },
+    "horizontalOverflow": false,
+    "scrollW": 1768,
+    "clientW": 1768,
+    "bodyScrollW": 1768,
+    "els": {
+      "footer": {
+        "x": 0,
+        "y": 331,
+        "w": 1768,
+        "h": 668,
+        "r": 1768,
+        "b": 1000
+      },
+      "eyebrow": {
+        "x": 294,
+        "y": 455,
+        "w": 1180,
+        "h": 52,
+        "r": 1474,
+        "b": 507
+      },
+      "title": {
+        "x": 294,
+        "y": 521,
+        "w": 1180,
+        "h": 171,
+        "r": 1474,
+        "b": 692
+      },
+      "line1": null,
+      "word2": {
+        "x": 294,
+        "y": 541,
+        "w": 1180,
+        "h": 129,
+        "r": 1474,
+        "b": 670
+      },
+      "mail": {
+        "x": 294,
+        "y": 722,
+        "w": 1180,
+        "h": 58,
+        "r": 1474,
+        "b": 779
+      },
+      "mailText": {
+        "x": 975,
+        "y": 722,
+        "w": 418,
+        "h": 58,
+        "r": 1393,
+        "b": 779
+      },
+      "mailBtn": {
+        "x": 1421,
+        "y": 724,
+        "w": 53,
+        "h": 53,
+        "r": 1474,
+        "b": 777
+      },
+      "bottom": {
+        "x": 72,
+        "y": 859,
+        "w": 1624,
+        "h": 100,
+        "r": 1696,
+        "b": 960
+      },
+      "contact": {
+        "x": 72,
+        "y": 900,
+        "w": 256,
+        "h": 59,
+        "r": 328,
+        "b": 960
+      },
+      "social": {
+        "x": 650,
+        "y": 920,
+        "w": 467,
+        "h": 20,
+        "r": 1118,
+        "b": 940
+      },
+      "legal": {
+        "x": 1466,
+        "y": 921,
+        "w": 230,
+        "h": 17,
+        "r": 1696,
+        "b": 938
+      }
+    },
+    "styles": {
+      "footer": {
+        "background-color": "rgb(23, 23, 26)",
+        "color": "rgb(244, 244, 242)",
+        "padding-top": "123.76px",
+        "padding-left": "72px"
+      },
+      "title": {
+        "font-family": "\"Playfair Display\", Georgia, serif",
+        "font-size": "123.76px",
+        "line-height": "128.71px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "eyebrow": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "18px",
+        "font-weight": "500",
+        "color": "rgb(167, 167, 173)"
+      },
+      "mail": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "50px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "social": {
+        "font-size": "12px",
+        "font-weight": "700",
+        "letter-spacing": "1.68px",
+        "text-transform": "uppercase"
+      },
+      "bottom": {
+        "grid-template-columns": "530.422px 467.156px 530.422px",
+        "border-top-color": "rgba(244, 244, 242, 0.14)"
+      }
+    },
+    "overflowInfo": {
+      "titleLines": 1,
+      "titleH": 171,
+      "maskW": 1180,
+      "textW": 1041,
+      "fullWidth": 1115,
+      "fitsOneLine": true,
+      "socialScrollW": 467,
+      "socialClientW": 467,
+      "contactH": 59,
+      "contactW": 256,
+      "socialH": 20,
+      "eyebrowH": 52,
+      "maskH": 171,
+      "innerH": 129
+    }
+  },
+  {
+    "vp": {
+      "name": "desktop-1920",
+      "width": 1920,
+      "height": 1080
+    },
+    "horizontalOverflow": false,
+    "scrollW": 1920,
+    "clientW": 1920,
+    "bodyScrollW": 1920,
+    "els": {
+      "footer": {
+        "x": 0,
+        "y": 250,
+        "w": 1920,
+        "h": 830,
+        "r": 1920,
+        "b": 1080
+      },
+      "eyebrow": {
+        "x": 370,
+        "y": 380,
+        "w": 1180,
+        "h": 52,
+        "r": 1550,
+        "b": 433
+      },
+      "title": {
+        "x": 370,
+        "y": 445,
+        "w": 1180,
+        "h": 319,
+        "r": 1550,
+        "b": 765
+      },
+      "line1": null,
+      "word2": {
+        "x": 370,
+        "y": 467,
+        "w": 1180,
+        "h": 275,
+        "r": 1550,
+        "b": 741
+      },
+      "mail": {
+        "x": 370,
+        "y": 793,
+        "w": 1180,
+        "h": 58,
+        "r": 1550,
+        "b": 851
+      },
+      "mailText": {
+        "x": 1050,
+        "y": 793,
+        "w": 418,
+        "h": 58,
+        "r": 1468,
+        "b": 851
+      },
+      "mailBtn": {
+        "x": 1496,
+        "y": 795,
+        "w": 54,
+        "h": 54,
+        "r": 1550,
+        "b": 849
+      },
+      "bottom": {
+        "x": 72,
+        "y": 937,
+        "w": 1776,
+        "h": 100,
+        "r": 1848,
+        "b": 1037
+      },
+      "contact": {
+        "x": 72,
+        "y": 978,
+        "w": 256,
+        "h": 59,
+        "r": 328,
+        "b": 1037
+      },
+      "social": {
+        "x": 726,
+        "y": 998,
+        "w": 467,
+        "h": 20,
+        "r": 1194,
+        "b": 1018
+      },
+      "legal": {
+        "x": 1618,
+        "y": 999,
+        "w": 230,
+        "h": 17,
+        "r": 1848,
+        "b": 1016
+      }
+    },
+    "styles": {
+      "footer": {
+        "background-color": "rgb(23, 23, 26)",
+        "color": "rgb(244, 244, 242)",
+        "padding-top": "130px",
+        "padding-left": "72px"
+      },
+      "title": {
+        "font-family": "\"Playfair Display\", Georgia, serif",
+        "font-size": "132px",
+        "line-height": "137.28px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "eyebrow": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "18px",
+        "font-weight": "500",
+        "color": "rgb(167, 167, 173)"
+      },
+      "mail": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "50px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "social": {
+        "font-size": "12px",
+        "font-weight": "700",
+        "letter-spacing": "1.68px",
+        "text-transform": "uppercase"
+      },
+      "bottom": {
+        "grid-template-columns": "606.422px 467.156px 606.422px",
+        "border-top-color": "rgba(244, 244, 242, 0.14)"
+      }
+    },
+    "overflowInfo": {
+      "titleLines": 2,
+      "titleH": 319,
+      "maskW": 1180,
+      "textW": 1110,
+      "fullWidth": 1189,
+      "fitsOneLine": false,
+      "socialScrollW": 467,
+      "socialClientW": 467,
+      "contactH": 59,
+      "contactW": 256,
+      "socialH": 20,
+      "eyebrowH": 52,
+      "maskH": 319,
+      "innerH": 275
+    }
+  },
+  {
+    "vp": {
+      "name": "tablet-1024",
+      "width": 1024,
+      "height": 900
+    },
+    "horizontalOverflow": false,
+    "scrollW": 1024,
+    "clientW": 1024,
+    "bodyScrollW": 1024,
+    "els": {
+      "footer": {
+        "x": 0,
+        "y": 430,
+        "w": 1024,
+        "h": 469,
+        "r": 1024,
+        "b": 900
+      },
+      "eyebrow": {
+        "x": 46,
+        "y": 502,
+        "w": 932,
+        "h": 41,
+        "r": 978,
+        "b": 543
+      },
+      "title": {
+        "x": 46,
+        "y": 552,
+        "w": 932,
+        "h": 99,
+        "r": 978,
+        "b": 650
+      },
+      "line1": null,
+      "word2": {
+        "x": 46,
+        "y": 563,
+        "w": 932,
+        "h": 75,
+        "r": 978,
+        "b": 638
+      },
+      "mail": {
+        "x": 46,
+        "y": 668,
+        "w": 932,
+        "h": 44,
+        "r": 978,
+        "b": 712
+      },
+      "mailText": {
+        "x": 661,
+        "y": 673,
+        "w": 257,
+        "h": 35,
+        "r": 918,
+        "b": 708
+      },
+      "mailBtn": {
+        "x": 934,
+        "y": 668,
+        "w": 44,
+        "h": 44,
+        "r": 978,
+        "b": 712
+      },
+      "bottom": {
+        "x": 46,
+        "y": 784,
+        "w": 932,
+        "h": 79,
+        "r": 978,
+        "b": 864
+      },
+      "contact": {
+        "x": 46,
+        "y": 812,
+        "w": 224,
+        "h": 52,
+        "r": 270,
+        "b": 864
+      },
+      "social": {
+        "x": 309,
+        "y": 828,
+        "w": 407,
+        "h": 20,
+        "r": 715,
+        "b": 848
+      },
+      "legal": {
+        "x": 765,
+        "y": 830,
+        "w": 213,
+        "h": 16,
+        "r": 978,
+        "b": 846
+      }
+    },
+    "styles": {
+      "footer": {
+        "background-color": "rgb(23, 23, 26)",
+        "color": "rgb(244, 244, 242)",
+        "padding-top": "71.68px",
+        "padding-left": "46.08px"
+      },
+      "title": {
+        "font-family": "\"Playfair Display\", Georgia, serif",
+        "font-size": "71.68px",
+        "line-height": "74.5472px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "eyebrow": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "14px",
+        "font-weight": "500",
+        "color": "rgb(167, 167, 173)"
+      },
+      "mail": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "30.72px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "social": {
+        "font-size": "12px",
+        "font-weight": "700",
+        "letter-spacing": "1.68px",
+        "text-transform": "uppercase"
+      },
+      "bottom": {
+        "grid-template-columns": "231.875px 406.641px 231.891px",
+        "border-top-color": "rgba(244, 244, 242, 0.14)"
+      }
+    },
+    "overflowInfo": {
+      "titleLines": 1,
+      "titleH": 99,
+      "maskW": 932,
+      "textW": 603,
+      "fullWidth": 646,
+      "fitsOneLine": true,
+      "socialScrollW": 407,
+      "socialClientW": 407,
+      "contactH": 52,
+      "contactW": 224,
+      "socialH": 20,
+      "eyebrowH": 41,
+      "maskH": 99,
+      "innerH": 75
+    }
+  },
+  {
+    "vp": {
+      "name": "tablet-768",
+      "width": 768,
+      "height": 1024
+    },
+    "horizontalOverflow": false,
+    "scrollW": 768,
+    "clientW": 768,
+    "bodyScrollW": 768,
+    "els": {
+      "footer": {
+        "x": 0,
+        "y": 478,
+        "w": 768,
+        "h": 546,
+        "r": 768,
+        "b": 1024
+      },
+      "eyebrow": {
+        "x": 35,
+        "y": 542,
+        "w": 699,
+        "h": 41,
+        "r": 733,
+        "b": 583
+      },
+      "title": {
+        "x": 35,
+        "y": 592,
+        "w": 699,
+        "h": 74,
+        "r": 733,
+        "b": 666
+      },
+      "line1": null,
+      "word2": {
+        "x": 35,
+        "y": 601,
+        "w": 699,
+        "h": 56,
+        "r": 733,
+        "b": 657
+      },
+      "mail": {
+        "x": 35,
+        "y": 683,
+        "w": 699,
+        "h": 44,
+        "r": 733,
+        "b": 727
+      },
+      "mailText": {
+        "x": 35,
+        "y": 691,
+        "w": 201,
+        "h": 28,
+        "r": 235,
+        "b": 718
+      },
+      "mailBtn": {
+        "x": 249,
+        "y": 683,
+        "w": 44,
+        "h": 44,
+        "r": 293,
+        "b": 727
+      },
+      "bottom": {
+        "x": 35,
+        "y": 809,
+        "w": 699,
+        "h": 174,
+        "r": 733,
+        "b": 983
+      },
+      "contact": {
+        "x": 35,
+        "y": 834,
+        "w": 224,
+        "h": 52,
+        "r": 258,
+        "b": 885
+      },
+      "social": {
+        "x": 35,
+        "y": 916,
+        "w": 380,
+        "h": 20,
+        "r": 414,
+        "b": 936
+      },
+      "legal": {
+        "x": 35,
+        "y": 967,
+        "w": 213,
+        "h": 16,
+        "r": 248,
+        "b": 983
+      }
+    },
+    "styles": {
+      "footer": {
+        "background-color": "rgb(23, 23, 26)",
+        "color": "rgb(244, 244, 242)",
+        "padding-top": "64px",
+        "padding-left": "34.56px"
+      },
+      "title": {
+        "font-family": "\"Playfair Display\", Georgia, serif",
+        "font-size": "53.76px",
+        "line-height": "55.9104px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "eyebrow": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "14px",
+        "font-weight": "500",
+        "color": "rgb(167, 167, 173)"
+      },
+      "mail": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "24px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "social": {
+        "font-size": "12px",
+        "font-weight": "700",
+        "letter-spacing": "1.68px",
+        "text-transform": "uppercase"
+      },
+      "bottom": {
+        "grid-template-columns": "698.906px",
+        "border-top-color": "rgba(244, 244, 242, 0.14)"
+      }
+    },
+    "overflowInfo": {
+      "titleLines": 1,
+      "titleH": 74,
+      "maskW": 699,
+      "textW": 452,
+      "fullWidth": 484,
+      "fitsOneLine": true,
+      "socialScrollW": 380,
+      "socialClientW": 380,
+      "contactH": 52,
+      "contactW": 224,
+      "socialH": 20,
+      "eyebrowH": 41,
+      "maskH": 74,
+      "innerH": 56
+    }
+  },
+  {
+    "vp": {
+      "name": "mobile-390",
+      "width": 390,
+      "height": 844
+    },
+    "horizontalOverflow": false,
+    "scrollW": 390,
+    "clientW": 390,
+    "bodyScrollW": 390,
+    "els": {
+      "footer": {
+        "x": 0,
+        "y": 361,
+        "w": 390,
+        "h": 483,
+        "r": 390,
+        "b": 844
+      },
+      "eyebrow": {
+        "x": 20,
+        "y": 425,
+        "w": 350,
+        "h": 41,
+        "r": 370,
+        "b": 466
+      },
+      "title": {
+        "x": 20,
+        "y": 479,
+        "w": 350,
+        "h": 41,
+        "r": 370,
+        "b": 520
+      },
+      "line1": null,
+      "word2": {
+        "x": 20,
+        "y": 484,
+        "w": 350,
+        "h": 31,
+        "r": 370,
+        "b": 515
+      },
+      "mail": {
+        "x": 20,
+        "y": 538,
+        "w": 350,
+        "h": 44,
+        "r": 370,
+        "b": 582
+      },
+      "mailText": {
+        "x": 20,
+        "y": 546,
+        "w": 202,
+        "h": 28,
+        "r": 222,
+        "b": 574
+      },
+      "mailBtn": {
+        "x": 234,
+        "y": 538,
+        "w": 44,
+        "h": 44,
+        "r": 278,
+        "b": 582
+      },
+      "bottom": {
+        "x": 20,
+        "y": 650,
+        "w": 350,
+        "h": 161,
+        "r": 370,
+        "b": 810
+      },
+      "contact": {
+        "x": 20,
+        "y": 675,
+        "w": 224,
+        "h": 52,
+        "r": 244,
+        "b": 726
+      },
+      "social": {
+        "x": 20,
+        "y": 750,
+        "w": 341,
+        "h": 20,
+        "r": 361,
+        "b": 770
+      },
+      "legal": {
+        "x": 20,
+        "y": 794,
+        "w": 213,
+        "h": 16,
+        "r": 233,
+        "b": 810
+      }
+    },
+    "styles": {
+      "footer": {
+        "background-color": "rgb(23, 23, 26)",
+        "color": "rgb(244, 244, 242)",
+        "padding-top": "64px",
+        "padding-left": "20px"
+      },
+      "title": {
+        "font-family": "\"Playfair Display\", Georgia, serif",
+        "font-size": "30px",
+        "line-height": "31.2px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "eyebrow": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "14px",
+        "font-weight": "500",
+        "color": "rgb(167, 167, 173)"
+      },
+      "mail": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "24.18px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "social": {
+        "font-size": "12px",
+        "font-weight": "700",
+        "letter-spacing": "1.68px",
+        "text-transform": "uppercase"
+      },
+      "bottom": {
+        "grid-template-columns": "350px",
+        "border-top-color": "rgba(244, 244, 242, 0.14)"
+      }
+    },
+    "overflowInfo": {
+      "titleLines": 1,
+      "titleH": 41,
+      "maskW": 350,
+      "textW": 252,
+      "fullWidth": 270,
+      "fitsOneLine": true,
+      "socialScrollW": 341,
+      "socialClientW": 341,
+      "contactH": 52,
+      "contactW": 224,
+      "socialH": 20,
+      "eyebrowH": 41,
+      "maskH": 41,
+      "innerH": 31
+    }
+  },
+  {
+    "vp": {
+      "name": "mobile-320",
+      "width": 320,
+      "height": 800
+    },
+    "horizontalOverflow": false,
+    "scrollW": 320,
+    "clientW": 320,
+    "bodyScrollW": 320,
+    "els": {
+      "footer": {
+        "x": 0,
+        "y": 289,
+        "w": 320,
+        "h": 511,
+        "r": 320,
+        "b": 800
+      },
+      "eyebrow": {
+        "x": 20,
+        "y": 353,
+        "w": 280,
+        "h": 41,
+        "r": 300,
+        "b": 394
+      },
+      "title": {
+        "x": 20,
+        "y": 407,
+        "w": 280,
+        "h": 41,
+        "r": 300,
+        "b": 448
+      },
+      "line1": null,
+      "word2": {
+        "x": 20,
+        "y": 412,
+        "w": 280,
+        "h": 31,
+        "r": 300,
+        "b": 443
+      },
+      "mail": {
+        "x": 20,
+        "y": 465,
+        "w": 280,
+        "h": 44,
+        "r": 300,
+        "b": 509
+      },
+      "mailText": {
+        "x": 20,
+        "y": 475,
+        "w": 175,
+        "h": 24,
+        "r": 195,
+        "b": 499
+      },
+      "mailBtn": {
+        "x": 207,
+        "y": 465,
+        "w": 44,
+        "h": 44,
+        "r": 251,
+        "b": 509
+      },
+      "bottom": {
+        "x": 20,
+        "y": 573,
+        "w": 280,
+        "h": 195,
+        "r": 300,
+        "b": 768
+      },
+      "contact": {
+        "x": 20,
+        "y": 598,
+        "w": 224,
+        "h": 52,
+        "r": 244,
+        "b": 650
+      },
+      "social": {
+        "x": 20,
+        "y": 674,
+        "w": 181,
+        "h": 54,
+        "r": 201,
+        "b": 728
+      },
+      "legal": {
+        "x": 20,
+        "y": 752,
+        "w": 213,
+        "h": 16,
+        "r": 233,
+        "b": 768
+      }
+    },
+    "styles": {
+      "footer": {
+        "background-color": "rgb(23, 23, 26)",
+        "color": "rgb(244, 244, 242)",
+        "padding-top": "64px",
+        "padding-left": "20px"
+      },
+      "title": {
+        "font-family": "\"Playfair Display\", Georgia, serif",
+        "font-size": "30px",
+        "line-height": "31.2px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "eyebrow": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "14px",
+        "font-weight": "500",
+        "color": "rgb(167, 167, 173)"
+      },
+      "mail": {
+        "font-family": "Inter, sans-serif",
+        "font-size": "21px",
+        "color": "rgb(244, 244, 242)"
+      },
+      "social": {
+        "font-size": "12px",
+        "font-weight": "700",
+        "letter-spacing": "1.68px",
+        "text-transform": "uppercase"
+      },
+      "bottom": {
+        "grid-template-columns": "280px",
+        "border-top-color": "rgba(244, 244, 242, 0.14)"
+      }
+    },
+    "overflowInfo": {
+      "titleLines": 1,
+      "titleH": 41,
+      "maskW": 280,
+      "textW": 252,
+      "fullWidth": 270,
+      "fitsOneLine": true,
+      "socialScrollW": 181,
+      "socialClientW": 181,
+      "contactH": 52,
+      "contactW": 224,
+      "socialH": 54,
+      "eyebrowH": 41,
+      "maskH": 41,
+      "innerH": 31
+    }
+  }
+]
