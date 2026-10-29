@@ -1,10 +1,10 @@
-
 import { resolve } from 'node:path';
 import { defineConfig } from 'vite';
 
-export default defineConfig({
-  // GitHub Pages repository name
-  base: '/sprixo/',
+export default defineConfig(({ mode }) => ({
+  // GitHub Pages uses /sprixo/
+  // Vercel uses /
+  base: mode === 'github' ? '/sprixo/' : '/',
 
   build: {
     rollupOptions: {
@@ -17,4 +17,4 @@ export default defineConfig({
       },
     },
   },
-});
+}));
